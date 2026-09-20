@@ -2,7 +2,7 @@
 # Basics-Linux-Learning-Journey---Week-1
 
 ## 1. Introduction
-This week, I started on learning the basic for linus, just like any beginner. My goal was to dive into the command line to understand how the system works behind the scenes. This gave me appreciation of how the process other than only relying on graphical user  interface (GUI).
+This week, I started on learning the basics for linux, just like any beginner. My goal was to dive into the command line to understand how the system works behind the scenes. This gave me appreciation of how the process other than only relying on graphical user  interface (GUI).
 
 ## My Learning Environment
 
