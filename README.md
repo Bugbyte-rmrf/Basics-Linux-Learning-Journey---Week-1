@@ -18,10 +18,6 @@ The terminal provides the CLI environment, while the "shell" acts as the interpr
 
 Here is a visual representation of how this interaction works:
 
-The terminal provides the CLI environment, while the "shell" acts as the interpreter—it reads what you type and passes those instructions to the operating system. 
-
-Here is a visual representation of how this interaction works:
-
 ```text
                Beginner
                 │
