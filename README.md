@@ -23,7 +23,7 @@ The terminal provides the CLI environment, while the "shell" acts as the interpr
 Here is a visual representation of how this interaction works:
 
 ```text
-               YOU
+               Beginner
                 │
                 │ type commands
                 ▼
