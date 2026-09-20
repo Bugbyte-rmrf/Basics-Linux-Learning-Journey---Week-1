@@ -4,6 +4,10 @@
 ## 1. Introduction
 This week, I started on learning the basic for linus, just like any beginner. My goal was to dive into the command line to understand how the system works behind the scenes. This gave me appreciation of how the process other than only relying on graphical user  interface (GUI).
 
+## My Learning Environment
+
+I performed the practical exercises using a Linux installation on my computer. I used the terminal to practice the commands and observe their results directly.
+
 ## 2. What I Learned About Linux
 One of my first important discoveries was that "Linux" technically refers only to the kernel, while a complete Linux operating system normally combines this kernel with other software, including GNU tools. The kernel acts as the central controller responsible for managing the functioning of the entire system. 
 
@@ -12,7 +16,36 @@ I also learned about distributions (or "distros"). A distribution packages the L
 ## 3. Understanding the CLI (Command Line Interface)
 The terminal provides the CLI environment, while the "shell" acts as the interpreter. It reads what you type and passes those instructions to the operating system. 
 
-In the beginning, the command line felt complicated because there was no graphical menu telling me what to click. Instead, I had to remember commands and type them correctly. However, after some hands-on practice, I started to understand that Linux commands are structured instructions and not random words to memorize.
+Here is a visual representation of how this interaction works:
+
+```text
+               YOU
+                │
+                │ type commands
+                ▼
+        ┌──────────────┐
+        │   Terminal   │
+        └──────┬───────┘
+                │
+                ▼
+        ┌──────────────┐
+        │    Shell     │
+        │    (Bash)    │
+        └──────┬───────┘
+                │
+                │ executes instructions
+                ▼
+        ┌──────────────┐
+        │ Linux Kernel │
+        └──────┬───────┘
+                │
+       ┌───────┼────────┐
+       ▼       ▼        ▼
+      CPU    Memory    Disk
+
+
+
+In the beginning, the command line felt unfamiliar because there was no graphical menu telling me what to click. Instead, I had to remember commands and type them correctly. However, after some hands-on practice, I started to understand that Linux commands are structured instructions and not random words to memorize.
 
 ## 4. Commands I Practiced & Hands-On Work
 During my personal study time, I focused on basic system identification, navigation, and file management. Here is a breakdown of the commands I practiced:
@@ -76,5 +109,22 @@ Transitioning to the CLI came with a few learning curves:
 
 While learning the CLI requires memorizing commands and options, I found that once you understand the basic command structure and filesystem navigation, it becomes a highly productive environment.
 
-## 7. Key Takeaways
+## 8. How I Learned
+My learning process involved a combination of studying Linux concepts and then practicing them directly in the terminal. The study material helped me understand concepts such as:
+
+* The Linux kernel
+* GNU/Linux
+* Linux distributions
+* Open-source software
+* The command-line interface (CLI)
+* Shells
+* Applications
+* Package management
+* Security
+* Virtualization
+* Linux in cloud computing
+
+After learning the concepts, I practiced basic commands in my own Linux environment. This combination of theory and hands-on practice helped me understand the commands much better.
+
+## 7. Key Takeaways / Conclusion
 My biggest takeaway is that Linux is about learning an entirely different way of interacting with a computer. Once you understand the command structure and the filesystem hierarchy, the CLI provides precise control, incredible speed, and an open space for automation through scripting compared to a traditional GUI.
