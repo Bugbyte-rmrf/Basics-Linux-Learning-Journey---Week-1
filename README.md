@@ -98,9 +98,9 @@ I ran the following command to update my system's software lists:
 An important principle I learned here is that operations changing the package state require administrative (superuser) privileges, which is why `sudo` is required.
 
 **Updating System Packages:**
-*<img width="1312" height="54" alt="Package update" src="https://github.com/user-attachments/assets/85728cb7-971e-4df8-bdd7-2cd24563495a" />
+<img width="1312" height="54" alt="Package update" src="https://github.com/user-attachments/assets/85728cb7-971e-4df8-bdd7-2cd24563495a" />
 
-*<img width="1312" height="114" alt="Results  - Package Update" src="https://github.com/user-attachments/assets/fd95fc16-264c-437d-bb6a-332fd333eda7" />
+<img width="1312" height="114" alt="Results  - Package Update" src="https://github.com/user-attachments/assets/fd95fc16-264c-437d-bb6a-332fd333eda7" />
 
 
 ## 6. Challenges Faced
