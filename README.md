@@ -42,7 +42,7 @@ Here is a visual representation of how this interaction works:
 
 In the beginning, the command line felt unfamiliar because there was no graphical menu telling me what to click. Instead, I had to remember commands and type them correctly. However, after some hands-on practice, I started to understand that Linux commands are structured instructions and not random words to memorize.
 
-## 4. Commands I Practiced & Hands-On Work
+## 4. Commands I Practiced & Hands-On Practice
 During my personal study time, I focused on basic system identification, navigation, and file management. Here is a breakdown of the commands I practiced:
 
 | Command | What I learned / Demonstrated |
