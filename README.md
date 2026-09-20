@@ -18,6 +18,10 @@ The terminal provides the CLI environment, while the "shell" acts as the interpr
 
 Here is a visual representation of how this interaction works:
 
+The terminal provides the CLI environment, while the "shell" acts as the interpreter—it reads what you type and passes those instructions to the operating system. 
+
+Here is a visual representation of how this interaction works:
+
 ```text
                YOU
                 │
@@ -42,8 +46,7 @@ Here is a visual representation of how this interaction works:
        ┌───────┼────────┐
        ▼       ▼        ▼
       CPU    Memory    Disk
-
-
+```
 
 In the beginning, the command line felt unfamiliar because there was no graphical menu telling me what to click. Instead, I had to remember commands and type them correctly. However, after some hands-on practice, I started to understand that Linux commands are structured instructions and not random words to memorize.
 
