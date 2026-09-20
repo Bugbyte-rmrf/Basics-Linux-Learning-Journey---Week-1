@@ -2,7 +2,7 @@
 # Basics-Linux-Learning-Journey---Week-1
 
 ## 1. Introduction
-This week, I started on learning the basics for Linux, just like any beginner. My goal was to dive into the command line to understand how the system works behind the scenes. This gave me appreciation of how the process other than only relying on graphical user  interface (GUI).
+This week, I started on learning the basics for Linux, just like any beginner. My goal was to dive into the command line to understand how the system works behind the scenes. This gave me appreciation of how the process runs and not only relying on Graphical User Interface (GUI).
 
 ## My Learning Environment
 
@@ -119,7 +119,7 @@ My learning process involved a combination of studying Linux concepts and then p
 * Virtualization
 * Linux in cloud computing
 
-After learning the concepts, I practiced basic commands in my own Linux environment. This combination of theory and hands-on practice helped me understand the commands much better.
+This combination of theory and hands-on practice helped me understand the commands much better.
 
 ## 7. Key Takeaways / Conclusion
 My biggest takeaway is that Linux is about learning an entirely different way of interacting with a computer. Once you understand the command structure and the filesystem hierarchy, the CLI provides precise control, incredible speed, and an open space for automation through scripting compared to a traditional GUI.
