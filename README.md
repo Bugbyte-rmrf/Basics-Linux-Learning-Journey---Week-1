@@ -20,26 +20,22 @@ Here is a visual representation of how this interaction works:
 
 ```text
                Beginner
-                │
+
                 │ type commands
-                ▼
-        ┌──────────────┐
-        │   Terminal   │
-        └──────┬───────┘
+                ▼ 
+
+             Terminal   
+        
                 │
                 ▼
-        ┌──────────────┐
-        │    Shell     │
-        │    (Bash)    │
-        └──────┬───────┘
-                │
+        
+           Shell (Bash)   
+        
                 │ executes instructions
                 ▼
-        ┌──────────────┐
-        │ Linux Kernel │
-        └──────┬───────┘
-                │
-       ┌───────┼────────┐
+        
+          Linux Kernel
+               │
        ▼       ▼        ▼
       CPU    Memory    Disk
 ```
